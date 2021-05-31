@@ -1,0 +1,6 @@
+--require ./utils/spec_helper.rb
+--color
+--format documentation
+
+--format html
+--out ./reports/results.html
